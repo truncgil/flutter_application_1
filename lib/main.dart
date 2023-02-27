@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Merhaba dünya',
       theme: ThemeData(
+        //açıklama satırı dahi eklesem
         // This is the theme of your application.
         //
         // Try running your application with "flutter run". You'll see the
